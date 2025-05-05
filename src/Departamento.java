@@ -6,7 +6,6 @@ public class Departamento {
 	private Empresa empresa;
 	private int bono;
 	public Departamento(String nombre, int cantidadEmpleados, Empresa empresa, int bono) {
-		super();
 		this.nombre = nombre;
 		this.cantidadEmpleados = cantidadEmpleados;
 		this.empresa = empresa;

@@ -7,7 +7,7 @@ public class Empleado {
 	private double salario;
 	private int horas;
 	public Empleado(String nombre, String puesto, Departamento departamento, double salario, int horas) {
-		super();
+	
 		this.nombre = nombre;
 		this.puesto = puesto;
 		this.departamento = departamento;

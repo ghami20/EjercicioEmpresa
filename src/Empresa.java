@@ -5,7 +5,6 @@ public class Empresa {
 	private String direccion;
 	private int cuit;
 	public Empresa(String nombre, String direccion, int cuit) {
-		super();
 		this.nombre = nombre;
 		this.direccion = direccion;
 		this.cuit = cuit;
